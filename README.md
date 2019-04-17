@@ -1,5 +1,5 @@
 # ITPProjetoSGBD
-É um projeto implementado para a III unidade das disciplinas Introdução às Técnicas de Programação e Praticas de Técnicas de Programação, ministradas pelo Mestre André Luiz da Silva Solino no Instituto Metrópole Digital na Faculdade Federal do Rio Grande do Norte.
+É um projeto implementado para a III unidade das disciplinas Introdução às Técnicas de Programação e Práticas de Técnicas de Programação, ministradas pelo Mestre André Luiz da Silva Solino no Instituto Metrópole Digital na Faculdade Federal do Rio Grande do Norte.
 
 # What is it?
 O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados simplificado baseado no modelo relacional.
