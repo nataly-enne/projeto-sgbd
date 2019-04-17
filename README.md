@@ -1,4 +1,7 @@
 # ITPProjetoSGBD
+É um projeto implementado para a III unidade das disciplinas Introdução às Técnicas de Programação e Praticas de Técnicas de Programação, ministradas pelo Mestre André Luiz da Silva Solino no Instituto Metrópole Digital na Faculdade Federal do Rio Grande do Norte.
+
+# What is it?
 O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados simplificado baseado no modelo relacional.
 
 ### O SGBD ITP (nome dado ao SGBD simplificado) é capaz de realizar as seguintes operações:
@@ -32,22 +35,22 @@ O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados 
     O sistema verifica a chave primária - em uma tabela deve existir um e apenas um valor de chave primária. Se o usuário informar uma chave que já existe, sistema emite uma mensagem de erro e não inserie o registro.
   </li>
   
-  <h3>Listar todos os dados de uma tabela</h3>
+  <h3>4. Listar todos os dados de uma tabela</h3>
   <li>
     O usuário informa qual a tabela para serem listados os dados;
   </li>
   <li>
     Os dados são obtidos a partir do arquivo que armazena as tabelas.
   </li>
-  <h3> Pesquisar valor em uma tabela</h3>
+  <h3>5. Pesquisar valor em uma tabela</h3>
   <li>Não foi desenvolvido.</li>
   
-  <h3>Apagar valor de uma tabela</h3>
+  <h3>6. Apagar valor de uma tabela</h3>
   <li>
     O usuário informaa o nome da tabela e a chave primária a ser apagada.
   </li>
   
-  <h3>Apagar uma tabela</h3>
+  <h3>7. Apagar uma tabela</h3>
   <li> O usuário fornecerá o nome da tabela a ser apagada.
 
  </ul>
