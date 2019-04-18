@@ -47,7 +47,7 @@ O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados 
   
   <h3>6. Apagar valor de uma tabela</h3>
   <li>
-    O usuário informaa o nome da tabela e a chave primária a ser apagada.
+    O usuário informará o nome da tabela e a chave primária a ser apagada.
   </li>
   
   <h3>7. Apagar uma tabela</h3>
