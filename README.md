@@ -55,11 +55,12 @@ O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados 
 
  </ul>
  
- #### Para compilar o projeto, no terminal, basta digitar:
+ #### Para compilar é necessário estar no diretório do projeto.
+ #### Em seguida, no terminal, basta digitar:
  
  <pre><code> gcc -o exe Banco.c</code></pre>
 
-#### Para executar o programa, execute a seguinte linha de código:
+#### Para executar o programa, escreva a seguinte linha de código:
 
 <pre><code>./exe</code></pre>
 
