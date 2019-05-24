@@ -42,15 +42,13 @@ O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados 
   <li>
     Os dados são obtidos a partir do arquivo que armazena as tabelas.
   </li>
-  <h3>5. Pesquisar valor em uma tabela</h3>
-  <li>Não foi desenvolvido.</li>
   
-  <h3>6. Apagar valor de uma tabela</h3>
+  <h3>5. Apagar valor de uma tabela</h3>
   <li>
     O usuário informará o nome da tabela e a chave primária a ser apagada.
   </li>
   
-  <h3>7. Apagar uma tabela</h3>
+  <h3>6. Apagar uma tabela</h3>
   <li> O usuário fornecerá o nome da tabela a ser apagada.
 
  </ul>
