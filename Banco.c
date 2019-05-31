@@ -7,7 +7,7 @@
 #include "lib/itpFuncoes.c"
 #include <stdio.h>
 
-void main(int argc, char const *argv[]) {
+int main(int argc, char const *argv[]) {
   BD_carregar();
  
   printf("#######################################\n");
@@ -16,5 +16,7 @@ void main(int argc, char const *argv[]) {
   printf("#                                     #\n");
   printf("#######################################\n");
   menuBanco();
+
+  return 0;
 
 }
