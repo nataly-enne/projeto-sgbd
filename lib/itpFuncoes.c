@@ -104,9 +104,10 @@ int detectarTipos(char * string, int tipoEsperado){
     return tiposDetectados[tipoEsperado-1];
 }
 
-/*################################################################
-  #                      Funçőes do Menu                         #
-  ################################################################
+/*
+################################################################
+#                      Funçőes do Menu                         #
+################################################################
 */
 
 void criarTabela(){
@@ -198,7 +199,7 @@ void listarTabelas(){
 void listarDadosTabela(){
     BD_salvar();
 
-    int indexTabela=-1; //só pra entrar no WHILE
+    int indexTabela = -1; //só pra entrar no WHILE
 
     printf("== Listando valores ==\n");
 
@@ -297,9 +298,8 @@ void opcoesMenu(){
       "\n| 2- Listar Tabelas                 |"
       "\n| 3- Adicionar valor a tabela       |"
       "\n| 4- Listar Dados da tabela         |"
-      "\n| 5- Pesquisar valor de uma tabela  |"
-      "\n| 6- Apagar valor da tabela         |"
-      "\n| 7- Apagar tabela                  |"
+      "\n| 5- Apagar valor da tabela         |"
+      "\n| 6- Apagar tabela                  |"
       "\n| 0- Sair                           |");
   printf("\n ___________________________________\n\n");
 
@@ -330,12 +330,9 @@ void menuBanco() {
       listarDadosTabela();
       break;
     case 5:
-      printf("Em desenvolvimento...\n");
-      break;
-    case 6:
       apagarLinhaTabela();
       break;
-    case 7:
+    case 6:
       apagarTabela();
       break;
     case 0:
