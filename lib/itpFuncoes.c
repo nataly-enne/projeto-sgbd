@@ -286,7 +286,7 @@ void apagarLinhaTabela(){
     scanf("%s", primary);
     for(int i = 0; i < 20; i++){
         if(strcmp(ITPDB.tabelas[indexTabela].linhas[i][0], primary) == 0){
-            memset(&ITPDB.tabelas[indexTabela].linhas[i], 0, sizeof(20 * 20 *30));
+            memset(&ITPDB.tabelas[indexTabela].linhas[i], 0, sizeof(20 * 20 * 30));
             break;
         }
     }
