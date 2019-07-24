@@ -63,4 +63,26 @@ O projeto consiste em implementar um Sistema de Gerenciamento de Banco de Dados 
 <pre><code>./exe</code></pre>
 
 
+### Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SrtaEnne">
+        <img src="https://avatars3.githubusercontent.com/u/26802307?s=400&v=4" width="100px;" alt="Nátaly Enne"/>
+        <br />
+        <sub><b>Nátaly Enne</b></sub>
+      </a><br />
+      <a href="https://github.com/SrtaEnne/projeto-sgdb/commits?author=SrtaEnne" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/neves768">
+        <img src="https://avatars2.githubusercontent.com/u/5482004?s=400&v=4" width="100px;" alt="Christopher Neves"/>
+        <br />
+        <sub><b>Christopher Neves</b></sub>
+      </a><br />
+      <a href="https://github.com/SrtaEnne/projeto-sgdb/commits?author=neves768" title="Code">💻</a>
+    </td>
+  </tr>
+</table>
+
 
